@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=200&section=header&text=Darlan%20Hora&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Darlan Luiz Santos da Hora" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=200&section=header&text=Darlan%20Luiz%20Santos%20da%20Hora&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Darlan Luiz Santos da Hora" />
 
   <!-- Typing Animation -->
   <a href="https://readme-typing-svg.demolab.com">
@@ -48,6 +48,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0052CC&height=30&section=footer" width="100%" />
   
-  <sub><i>Desenvolvido por Darlan Hora</i></sub>
+  <sub><i>Desenvolvido por Darlan Luiz Santos da Hora</i></sub>
 
 </div>
