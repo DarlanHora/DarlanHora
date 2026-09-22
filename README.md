@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/darlanhora/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 
 </div>
 
@@ -25,7 +22,7 @@
 ## 🎯 Sobre Mim
 
 - 🔭 Atualmente atuando como **Engenheiro de Software**.
-- 🛠️ Focado em desenvolvimento backend e frontend com foco em **Java** e na ecossistema **Web**.
+- 🛠️ Focado em desenvolvimento backend e frontend com foco em **Java** e no ecossistema **Web**.
 - 📌 Sempre aprimorando boas práticas de código, versionamento e arquitetura de software.
 
 <br/>
@@ -45,37 +42,13 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarlanHora&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanHora&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&border_color=30363d&hide_border=false" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanHora&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarlanHora&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&border_color=30363d&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarlanHora&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarlanHora&theme=tokyonight&background=0D1117&border=30363D&stroke=2F81F7&alarm=2F81F7" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarlanHora&theme=react-dark&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
