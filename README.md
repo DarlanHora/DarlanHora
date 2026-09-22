@@ -42,29 +42,6 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanHora&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&border_color=30363d&hide_border=false&cache_seconds=1800" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanHora&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d&hide_border=false&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarlanHora/DarlanHora/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarlanHora/DarlanHora/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/DarlanHora/DarlanHora/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
