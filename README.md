@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DarlanHora/DarlanHora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=200&section=header&text=Darlan%20Hora&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Darlan Hora" />
 
-Here are some ideas to get you started:
+  <!-- Typing Animation -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Engenheiro+de+Software;Java+%7C+JavaScript+%7C+Web;Bem-vindo(a)+ao+meu+perfil!" alt="Typing Animation" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/><br/>
+
+  <!-- Redes Sociais -->
+  <a href="https://www.linkedin.com/in/darlanhora/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<br/>
+
+## 🎯 Sobre Mim
+
+- 🔭 Atualmente atuando como **Engenheiro de Software**.
+- 🛠️ Focado em desenvolvimento backend e frontend com foco em **Java** e na ecossistema **Web**.
+- 📌 Sempre aprimorando boas práticas de código, versionamento e arquitetura de software.
+
+<br/>
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarlanHora&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanHora&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&border_color=30363d&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanHora&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarlanHora&theme=tokyonight&background=0D1117&border=30363D&stroke=2F81F7&alarm=2F81F7" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarlanHora&theme=react-dark&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarlanHora/DarlanHora/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarlanHora/DarlanHora/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/DarlanHora/DarlanHora/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0052CC&height=30&section=footer" width="100%" />
+  
+  <sub><i>Desenvolvido por Darlan Hora</i></sub>
+
+</div>
